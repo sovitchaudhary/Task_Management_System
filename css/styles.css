@@ -1,0 +1,83 @@
+body{
+	background-color: #c1eeff;
+	font-family: sans-serif;
+	padding: 0px;	
+}
+.container{
+	margin-top: 10vh;
+	
+}
+#home_page{
+	background-color: #D4F6CC;
+	padding-left: 50px;
+	padding-right: 50px;
+	padding-top: 25px;
+	height: 30vh;
+	width: 30vw;
+}
+#user_login_page{
+
+	padding-left: 50px;
+	padding-right: 50px;
+	padding-top: 25px;
+	height: 43vh;
+	width: 30vw;
+}
+#header{
+	background-color: #efa37f;
+}
+#user_display{
+	margin-left: 80%;
+
+}
+#logout_link{
+	text-decoration: none;
+	color: white;
+}
+#left_sidebar{
+	margin-top: 50px;
+	margin-left: 30px;
+	width: 13vw;
+	height: 30vh;
+	display: inline-block;
+}
+#left_sidebar table tr{
+	background-color: #013dc4;
+	font-size: 25px;
+
+}
+#left_sidebar table tr:hover{
+	background-color: #efa37f;
+}
+#logout_link{
+	text-decoration: none;
+	color: white;
+}
+#logout_link:hover{
+	background-color: #efa37f;
+	color: black;
+}
+.link{
+	text-decoration: none;
+	color: white;
+}
+.link:hover{
+	background-color: #efa37f;
+	color: black;
+}
+#left_sidebar table td{
+	text-decoration: none;
+}
+#right_sidebar{
+	margin-top: 10px;
+	margin-left: 50px;
+	padding: 35px;
+	height: 75vh;
+	width: 75vw;
+	display: inline-block;
+	color: black;
+}
+#head{
+	margin-left: 20px;
+	
+}
